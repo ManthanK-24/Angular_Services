@@ -1,0 +1,11 @@
+
+<div class="container">
+    <h2>Album {{ albumId }} Details</h2>
+    <div class="album-container">
+      <div *ngFor="let photo of albumPhotos" class="album-item">
+        <img [src]="photo.thumbnailUrl" alt="{{ photo.title }}">
+        <p>{{ photo.title }}</p>
+      </div>
+    </div>
+  </div>
+  

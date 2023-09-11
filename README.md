@@ -1,3 +1,4 @@
+![alt text](https://github.com/ManthanK-24/Angular_Services/blob/main/angulartask-3.png?raw=true)
 # AngularPractice3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
